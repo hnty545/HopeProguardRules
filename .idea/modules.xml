@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HopeProguardRules.iml" filepath="$PROJECT_DIR$/.idea/modules/HopeProguardRules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HopeProguardRules.iml" filepath="$PROJECT_DIR$/HopeProguardRules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proguard-rules/proguard-rules.iml" filepath="$PROJECT_DIR$/proguard-rules/proguard-rules.iml" />
     </modules>
   </component>
 </project>
